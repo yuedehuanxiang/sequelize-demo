@@ -5,3 +5,7 @@
   padding: 20px;
   border-bottom: 1px dotted #cccccc;
 }
+
+li.disabled {
+  cursor: not-allowed;
+}
